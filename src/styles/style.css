@@ -5,3 +5,21 @@
 
   color: #fff;
 }
+
+.header {
+  width: 1440px;
+  height: 215px;
+  color: #FE8A02;
+}
+
+.content {
+  width: 1440px;
+  height: 1000px;
+  color: #FFFFFF;
+}
+
+.footer {
+  width: 1440px;
+  height: 581px;
+  color: #42413C;
+}
